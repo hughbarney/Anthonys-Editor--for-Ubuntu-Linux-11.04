@@ -2,7 +2,10 @@
 # EMACS-like Interface with ANSI Function Keys
 # Anthony's Editor January 93
 # Public Domain 1991, 1993 by Anthony Howe.  No warranty.
-
+#
+# Hugh Barney, Mar 2013, Updated Key Bindings for closer compatibility to Emacs
+# Extended keyboard keys match codes generated under linux
+#
 .help_off
 .cursor_up     ^[[A
 .cursor_down   ^[[B
